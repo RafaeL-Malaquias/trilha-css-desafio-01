@@ -231,7 +231,7 @@ main {
 
 footer {
     border-top: 1px solid #33A8DB;
-
+    background: linear-gradient(180deg, rgba(51, 168, 219, 0.00) 0%, rgba(51, 168, 219, 0.20) 99.99%, rgba(51, 168, 219, 0.20) 100%);
     padding: 3rem;
     color: #FFF;
     text-align: center;
